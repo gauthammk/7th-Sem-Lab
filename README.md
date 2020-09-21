@@ -6,6 +6,6 @@ _Lab programs and exercises for 7th semester@ISE_
 
 ### Mobile Appication Development
 
-| Exercise   | Date Completed |
-| ---------- | -------------- |
-| Life-Cycle | 21/09/20       |
+| Exercise                                                | Date Completed |
+| ------------------------------------------------------- | -------------- |
+| [Life-Cycle](Mobile-Application-Development/Life-Cycle) | 21/09/20       |
