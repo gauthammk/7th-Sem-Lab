@@ -8,6 +8,10 @@ Show the life cycle of an Android application using toast messages along with a 
 
 ## Screenshots
 
-![Screenshot1](Screenshot_1.png)
+<p align="start">
+  <img src="Screenshot_1.png" width="50%">
+</p>
 
-![Screenshot2](Screenshot_2.png)
+<p align="start">
+  <img src="Screenshot_2.png" width="50%">
+</p>
