@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Basic UI</string>
+    <string name="edit_text">Edit Text</string>
+    <string name="enter_text_here">Enter text here!</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="alpha">Alpha</string>
+    <string name="beta">Beta</string>
+    <string name="gamma">Gamma</string>
+    <string name="toggle">Toggle Me</string>
+    <string name="go">Go!</string>
+    <string name="spinner">Spinner</string>
+    <string name="autocomplete">Autocomplete</string>
+    <string name="autocomplete_symbols">Autocomplete symbols</string>
+    <string name="progress_bar">Progress Bar</string>
+    <string name="date_picker">Date Picker</string>
+    <string name="list_view">List View</string>
+    <string name="grid_view">Grid View</string>
+    <string name="start_typing">Start typing!</string>
+</resources>

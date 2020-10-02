@@ -66,25 +66,25 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onPause() {
         super.onPause();
-        showToast("onPause was called");
+        showToast("onPause() was called");
     }
 
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        showToast("onDestroy was called");
+        showToast("onDestroy() was called");
     }
 
     @Override
     protected void onResume() {
         super.onResume();
-        showToast("onResume was called");
+        showToast("onResume() was called");
     }
 
     @Override
     protected void onRestart() {
         super.onRestart();
-        showToast("onRestart was called");
+        showToast("onRestart() was called");
     }
 
     void showToast(String message) {
