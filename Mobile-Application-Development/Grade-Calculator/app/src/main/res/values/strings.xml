@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Grade Calculator</string>
+    <string name="test_1">Test 1</string>
+    <string name="test_2">Test 2</string>
+    <string name="test_3">Test 3</string>
+    <string name="activity">Activity 1</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+</resources>

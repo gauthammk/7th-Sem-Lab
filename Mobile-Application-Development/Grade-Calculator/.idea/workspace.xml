@@ -5,16 +5,19 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9c46447-bde3-41e6-aa88-2445564b81f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cb4261f5-b4b5-42ed-8401-b3f158843755" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BasicUI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicUI/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="feda0e08f6a1" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -30,7 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1iHo9cHFLCpuS5ExGEMth8v6uSB" />
+  <component name="ProjectId" id="1i7hIy3OMZVb9SxzoN9hOuSoixP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,19 +41,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_29" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-02T05:55:13.427Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="feda0e08f6a1" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-04T18:37:12.301Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
-  </component>
-  <component name="RecentsManager">
-    <key name="android.template.1821099747">
-      <recent name="com.example.basicui" />
-    </key>
-    <key name="android.template.1915528956">
-      <recent name="com.example.basicui" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -117,47 +112,38 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b9c46447-bde3-41e6-aa88-2445564b81f6" name="Default Changelist" comment="" />
-      <created>1601573728162</created>
+      <changelist id="cb4261f5-b4b5-42ed-8401-b3f158843755" name="Default Changelist" comment="" />
+      <created>1601264461713</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601573728162</updated>
+      <updated>1601264461713</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1601576531979">
+    <state x="579" y="322" key="AndroidCreateXmlResourceDialog" timestamp="1601265395024">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1601576531979" />
-    <state x="461" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601575873786">
+    <state x="579" y="322" key="AndroidCreateXmlResourceDialog/0.0.1440.900@0.0.1440.900" timestamp="1601265395024" />
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom" timestamp="1601837118624">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="461" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1601575873786" />
-    <state width="1398" height="262" key="GridCell.Tab.0.bottom" timestamp="1601616148533">
-      <screen x="0" y="23" width="1440" height="809" />
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601837118624" />
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1601270254099" />
+    <state width="1398" height="262" key="GridCell.Tab.0.center" timestamp="1601837118623">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601615630067" />
-    <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1601616148533" />
-    <state width="1398" height="262" key="GridCell.Tab.0.center" timestamp="1601616148533">
-      <screen x="0" y="23" width="1440" height="809" />
+    <state width="1398" height="262" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601837118623" />
+    <state width="1398" height="262" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1601270254098" />
+    <state width="1398" height="262" key="GridCell.Tab.0.left" timestamp="1601837118622">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="262" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601615630067" />
-    <state width="1398" height="262" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1601616148533" />
-    <state width="1398" height="262" key="GridCell.Tab.0.left" timestamp="1601616148532">
-      <screen x="0" y="23" width="1440" height="809" />
+    <state width="1398" height="262" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601837118622" />
+    <state width="1398" height="262" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1601270254098" />
+    <state width="1398" height="262" key="GridCell.Tab.0.right" timestamp="1601837118623">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="262" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601615630066" />
-    <state width="1398" height="262" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1601616148532" />
-    <state width="1398" height="262" key="GridCell.Tab.0.right" timestamp="1601616148533">
-      <screen x="0" y="23" width="1440" height="809" />
-    </state>
-    <state width="1398" height="262" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601615630067" />
-    <state width="1398" height="262" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1601616148533" />
-    <state x="399" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1601617866076">
-      <screen x="0" y="23" width="1440" height="809" />
-    </state>
-    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1601612870867" />
-    <state x="399" y="276" key="com.intellij.ide.util.TipDialog/0.23.1440.809@0.23.1440.809" timestamp="1601617866076" />
+    <state width="1398" height="262" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601837118623" />
+    <state width="1398" height="262" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1601270254098" />
   </component>
 </project>

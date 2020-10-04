@@ -7,3 +7,7 @@ _2nd October 2020_
 Implement common UI layouts and components to understand Android frontend workflow.
 
 ## Screenshots
+
+<p align="start">
+  <img src="Screenshot_1.png" width="20%">
+</p>
