@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/itemName"
+        android:layout_width="122dp"
+        android:layout_height="33dp"
+        android:textAppearance="@style/listing"
+        android:text="@string/sample_item"
+        android:gravity="center_vertical" />
+
+    <TextView
+        android:id="@+id/itemCost"
+        android:layout_width="53dp"
+        android:layout_height="33dp"
+        android:gravity="center"
+        android:text="@string/sample_cost"
+        android:textAppearance="@style/listing"/>
+
+    <ImageView
+        android:id="@+id/decreaseButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="ContentDescription"
+        android:background="@drawable/ic_minus_circle_1"/>
+
+    <TextView
+        android:id="@+id/itemQuantity"
+        android:layout_width="33dp"
+        android:layout_height="33dp"
+        android:gravity="center"
+        android:text="@string/sample_quantity"
+        android:textAppearance="@style/listing"/>
+
+    <ImageView
+        android:id="@+id/increaseButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="ContentDescription"
+        android:background="@drawable/ic_plus_circle_1"/>
+
+</LinearLayout>
