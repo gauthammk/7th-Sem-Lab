@@ -8,13 +8,15 @@
   <component name="ChangeListManager">
     <list default="true" id="b9c46447-bde3-41e6-aa88-2445564b81f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_the_edit_text.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_the_edit_text.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shopping-Cart/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../Shopping-Cart/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shopping-Cart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shopping-Cart/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -154,10 +156,10 @@
     </state>
     <state width="1398" height="262" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601615630067" />
     <state width="1398" height="262" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1601616148533" />
-    <state x="399" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1601617866076">
+    <state x="399" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1603344951202">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1601612870867" />
-    <state x="399" y="276" key="com.intellij.ide.util.TipDialog/0.23.1440.809@0.23.1440.809" timestamp="1601617866076" />
+    <state x="399" y="276" key="com.intellij.ide.util.TipDialog/0.23.1440.809@0.23.1440.809" timestamp="1603344951202" />
   </component>
 </project>
