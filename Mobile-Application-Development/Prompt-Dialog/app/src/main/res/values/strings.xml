@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prompt Dialog</string>
+    <string name="get_details">Get Details</string>
+    <string name="enter_student_id">Enter Student ID</string>
+</resources>
