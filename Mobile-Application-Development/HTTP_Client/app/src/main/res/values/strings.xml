@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HTTP_Client</string>
+    <string name="title">API Playground</string>
+    <string name="hint">Enter ID to GET/JSON to POST</string>
+    <string name="get">GET</string>
+    <string name="post">POST</string>
+    <string name="model">
+        Model:
+        \n{
+        \n\t  "Post": {
+        \n\t\t  "id": "int",
+        \n\t\t  "userId": "int",
+        \n\t\t  "title": "string",
+        \n\t\t  "body": "string",
+        \n\t  }
+        \n}
+    </string>
+    <string name="pleaseWait">Please Wait</string>
+</resources>
