@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Broadcasts</string>
+    <string name="info">This app receives broadcasts from the below providers: \n 1. Power Connected/Disconnected \n2. Headset Plug \n3. Aeroplane Mode Changed</string>
+</resources>
